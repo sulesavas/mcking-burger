@@ -1,4 +1,8 @@
-# McKing Burger - Hamburger Sipariş Verme Uygulaması
+# McKing Burger
+Hamburger Sipariş Verme Uygulaması
+
+### Demo Sitesi
+ Adres: https://sulesavas-mckingburger.netlify.app
 
 ### Kullanılan Teknolojiler
 
