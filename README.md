@@ -5,7 +5,6 @@ Hamburger Sipariş Verme Uygulaması
  Adres: https://sulesavas-mckingburger.netlify.app
 
 ### Kullanılan Teknolojiler
-
 - ReactJS
 - Bootstrap
 - Styled Components
